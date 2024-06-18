@@ -1,0 +1,15 @@
+
+
+
+
+Quiz app
+
+- create ui (done)
+- create a data sample (done)
+- link the data to the ui (done)
+- get the selected answer value (done)
+- create a way to move to the next question (done)
+- validate  the chosen answers (done)
+
+
+
